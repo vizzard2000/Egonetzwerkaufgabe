@@ -1,0 +1,7 @@
+id,name,age,education,weight,religion,relation
+Abkürzung des Namens,Vollständiger Name,Alter der Person,1 = Abitur,3 = nah,1 = katholisch,1 = Partnerin
+,,,2 = Studium,2 = neutral,2 = evangelisch,2 = Mutter/Vater
+,,,3 = Ausbildung,1= fremd,,3 = Schwester/Bruder
+,,,,,,4 = Arbeitskollege
+,,,,,,5 = Mitglied in gleicher Gruppe
+,,,,,,6 = Ratgeber
