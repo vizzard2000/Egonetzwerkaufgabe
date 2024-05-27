@@ -1,0 +1,11 @@
+from,to,weight,relation
+ja,lr,3,6
+ja,js,3,6
+ja,ls,3,5
+ja,ak,2,5
+lr,ls,2,5
+lr,js,1,99
+lr,ak,1,99
+ls,js,1,99
+ls,ak,1,99
+ak,js,1,99
